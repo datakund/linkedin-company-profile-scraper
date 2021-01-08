@@ -87,6 +87,14 @@ It requires **company_link** as input parameter
 linkedin.get_company_profile(company_link="company_profile_page_link_here")
 ```
 
+### Example Response
+
+```sh
+{
+    
+}
+```
+
 ### DataKund
 It uses [datakund](https://pypi.org/project/datakund/) internally to do browser automation
 DataKund is an automation library that uses selenium & supports automation of many sites including [Youtube](https://youtube-api.datakund.com/en/latest/), [Amazon](https://amazon-api.datakund.com/en/latest/), [Twitter](https://twitter-api.datakund.com/en/latest/), [LinkedIn](https://linkedin-api.datakund.com/en/latest/) , [Google](https://google-api.datakund.com/en/latest/) etc.
